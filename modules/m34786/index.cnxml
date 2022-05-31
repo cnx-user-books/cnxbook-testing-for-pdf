@@ -1,0 +1,3834 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Addition and Subtraction of Whole Numbers: Addition of Whole Numbers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34786</md:content-id>
+  <md:title>Addition and Subtraction of Whole Numbers: Addition of Whole Numbers</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses how to add whole numbers. By the end of this module, students should be able to understand the addition process, add whole numbers, and use the calculator to add one whole number to another.</md:abstract>
+  <md:uuid>97443ba5-0359-4303-bc92-c59ae8bc741d</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1166699887298">
+      <title>Section Overview</title>
+      <list id="id1166705105517" list-type="bulleted">
+        <item>Addition</item>
+        <item>Addition Visualized on the Number Line</item>
+        <item>The Addition Process</item>
+        <item>Addition Involving Carrying</item>
+        <item>Calculators</item>
+      </list>
+    </section>
+    <section id="id1166700449797"><title>Addition</title><para id="id1166700243281">Suppose we have two collections of objects that we combine together to form a third collection. For example,</para>
+      <para id="eip-id1164472796648"><media id="id1166699857855_media" alt="A group of four dots is combine with a group of three dots to yield seven dots.">
+          <image mime-type="image/png" src="../../media/graphics1-8b26.png" id="id1166699857855__onlineimage" width="500" print-width="4in"/>
+        </media>
+      </para>
+      <para id="id1166699820378">We are combining a collection of four objects with a collection of three objects to obtain a collection of seven objects.</para>
+      <para id="id1166699940754"><title>Addition</title>The process of combining two or more objects (real or intuitive) to form a third, the total, is called <term>addition</term>.</para>
+      <para id="id1166703864860">In addition, the numbers being added are called <term>addends</term> or <term>terms</term>, and the total is called the <term>sum</term>. The <term>plus symbol</term> (+) is used to indicate addition, and the <term>equal symbol</term> (=) is used to represent the word "equal." For example, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4+3=7} {}</m:annotation></m:semantics></m:math> means "four added to three equals seven."</para>
+    </section>
+    <section id="id1166709075790"><title>Addition Visualized on the Number Line</title><para id="id1166700707788">Addition is easily visualized on the number line. Let's visualize the addition of 4 and 3 using the number line.</para>
+      <para id="id1166705125996">To find 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4+3} {}</m:annotation></m:semantics></m:math>,</para>
+      <list id="id1166700240988" list-type="enumerated" number-style="arabic"><item>Start at 0.</item>
+        <item>Move to the right 4 units. We are now located at 4.</item>
+        <item>From 4, move to the right 3 units. We are now located at 7.</item>
+      </list>
+      
+      <para id="id1166705082291">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4+3=7} {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="eip-id1171198275471"><media id="id1166699984080_media" alt="A number line from 0 to 11. An arrow is drawn from 0 to 4, and is labeled 4. An arrow is drawn from 4 to 7 to a dot on the 7, and is labeled 3. There is a plus sign in between the two arrows.">
+          <image mime-type="image/png" src="../../media/graphics2-5726.png" id="id1166699984080__onlineimage" width="500" print-width="3.5in"/>
+        </media>
+      </para>
+    </section>
+    <section id="id1166699733315">
+      <title>The Addition Process</title>
+      <para id="id1166704670413">We'll study the process of addition by considering the sum of 25 and 43.</para>
+      
+      <para id="eip-195"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>25</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>43</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mtd>
+
+<m:mtd>
+<m:mtext>means</m:mtext>
+</m:mtd>
+
+
+
+</m:mtr>
+</m:mtable>
+</m:math>
+
+<media id="eip-id1171995525338" alt="Vertical math. 2 tens + 5 ones over 4 tens + 3 ones = 6 tens + 8 ones"><image mime-type="image/png" src="../../media/15pic1.png" width="150" print-width="1.25in"/></media>
+
+<!-- <m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mtext>2 tens + 5 ones</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mtext>+ 4 tens + 3 ones</m:mtext>
+</m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right"><m:mspace width="4px"/>
+<m:mtext>6 tens + 8 ones</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mtd> --></para><para id="id1166703273760">We write this as 68.</para>
+      <para id="id1166699755777">We can suggest the following procedure for adding whole numbers using this example.</para>
+      <example id="oo-id1166703167602"><title>The Process of Adding Whole Numbers</title><para id="id1166701401412">To <term>add whole numbers</term>,</para><para id="eip-250">The process: </para>
+<list id="eip-id1171499180318" list-type="enumerated" number-style="arabic"><item>Write the numbers vertically, placing corresponding positions in the same column.<newline/>
+        <para id="id1166705262568"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>25</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>43</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math></para></item>
+        <item>Add the digits in each column. Start at the right (in the ones position) and move to the left, placing the sum at the bottom.<newline/>
+        <para id="id1166706273927"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>25</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>43</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>68</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para></item></list></example>
+      
+      
+      <note id="id1166699207511" type="Note"><label>Caution</label> Confusion and incorrect sums can occur when the numbers are <emphasis effect="italics">not aligned</emphasis> in columns properly. Avoid writing such additions as<newline count="2"/>
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mn>25</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>43</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+
+
+
+<newline count="2"/>
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mrow>
+<m:mspace width="16px"/>
+<m:mn>25</m:mn>
+</m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>43 </m:mn>
+<m:mspace width="8px"/>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math></note>
+      
+      
+      <section id="id1166699713131"><title>Sample Set A</title><example id="eip-id1171494738715"> <para id="id1166699741435">Add 276 and 103.</para>
+        <para id="id1166699765521"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>276</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>103</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>379</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+
+<m:mspace width="16px"/>
+
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>6</m:mn>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>9</m:mn>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>7</m:mn>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mn>0</m:mn>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>7</m:mn>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mn>1</m:mn>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>3</m:mn>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{6+3=9 "." }  {} # 
+ size 12{7+0=7 "." }  {} # 
+ size 12{2+1=3 "." }  {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para></example><example id="eip-id1171520030685">
+        <para id="id1166699858061">Add 1459 and 130</para>
+        <para id="id1166699826294"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>1459</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>130</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>1589</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+
+<m:mspace width="16px"/>
+
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>9</m:mn>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mn>0</m:mn>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>9</m:mn>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>5</m:mn>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>8</m:mn>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>4</m:mn>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mn>1</m:mn>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>5</m:mn>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>1</m:mn>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mn>0</m:mn>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{9+0=9 "." }  {} # 
+ size 12{5+3=9 "." }  {} # 
+ size 12{4+1=5 "." }  {} # 
+ size 12{1+0=1 "." }  {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para></example>
+        <para id="id1166699785995">In each of these examples, each individual sum does not exceed 9. We will examine individual sums that exceed 9 in the next section.</para>
+      </section>
+      <section id="id1166706513892"><title>Practice Set A</title><para id="id1166699958618">Perform each addition. Show the expanded form in problems 1 and 2.</para>
+        <exercise id="id1166699670938">
+          <problem id="oo-id1166700952281">
+            <para id="id1166705458181">Add 63 and 25.</para></problem><solution id="eip-id1166566452570"><para id="eip-id1166551291299"> 88</para>
+          
+        
+        <para id="id1166700090613"><media id="eip-id1167920963101" alt="Vertical addition. 6 tens + 3 ones, over 2 tens + 5 ones = 8 tens + 8 ones."><image mime-type="image/png" src="../../media/15pic2.png" width="150" print-width="1.5in"/></media>
+<!-- <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:mtext>6 tens + 3 ones</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:mo>+</m:mo>
+<m:munder accentunder="true">
+<m:mrow>
+<m:mtext>2 tens + 5 ones</m:mtext>
+</m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:mtext>8 tens + 8 ones</m:mtext>
+</m:mtd></m:mtr>
+</m:mtable>
+</m:math> --></para></solution></exercise>
+        <exercise id="id1166705148710"><problem id="oo-id1166699653410">
+            <para id="id1166708506861">Add 4,026 and 1,501.</para></problem><solution id="eip-id1166560060267"><para id="eip-id1166559607398">5,527</para>
+
+<para id="eip-id1164464000869"><media id="eip-id1169018050910" alt="Vertical addition. 4 thousands + 0 hundreds + 2 tens + 6 ones, over 1 thousand + 5 hundreds + 0 tens + 1 one = 5 thousands + 5 hundreds + 2 tens + 7 ones."><image mime-type="image/png" src="../../media/15pic3.png" width="350" print-width="3.5in"/></media>
+
+<!-- <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mtext>4 thousands + 0 hundreds + 2 tens + 6 ones</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+
+<m:mtd columnalign="left">
+<m:mo>+</m:mo>
+<m:munder accentunder="true">
+<m:mrow>
+<m:mtext>1 thousand  + 5 hundreds + 0 tens + 1 one</m:mtext></m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+
+<m:mtd columnalign="right">
+<m:mtext> 5 thousands + 5 hundreds + 2 tens + 7 ones</m:mtext>
+</m:mtd></m:mtr>
+</m:mtable>
+</m:math> --></para>
+        </solution></exercise>
+        <exercise id="id1166700447450">
+          <problem id="oo-id1166704623438">
+            <para id="id1166709606552">Add 231,045 and 36,121.</para></problem><solution id="eip-id1629575"><para id="eip-id1166569307280">267,166</para></solution>
+          </exercise>
+      </section>
+    </section>
+    <section id="id1166698387698"><title>Addition Involving Carrying</title><para id="id1166704612488">It often happens in addition that the sum of the digits in a column will exceed 9. This happens when we add 18 and 34. We show this in expanded form as follows.</para>
+      <para id="eip-id1170171902830"><media id="id1166699909688_media" alt="18 + 34 is separated into 1 ten + 8 ones over 3 tens + 4 ones. The sum of the ones column exceeds nine. The sum is 4 tens + 12 ones, which is separated into 4 tens  + 1 ten + 2 ones. This is simplified to 5 tens + 2 ones, which is simplified to 52.">
+          <image mime-type="image/png" src="../../media/graphics9.png" id="id1166699909688__onlineimage" width="450" print-width="4in"/>
+        </media>
+      </para>
+      <para id="id8060280">Notice that when we add the 8 ones to the 4 ones we get 12 ones. We then convert the 12 ones to 1 ten and 2 ones. In vertical addition, we show this conversion by <term>carrying</term> the ten to the tens column. We write a 1 at the top of the tens column to indicate the carry. This same example is shown in a shorter form as follows:</para>
+      
+      <para id="eip-id1170175427481"><media id="id1166699784777_media" alt="18 + 34 = 52. Above the tens column is a carried one.">
+          <image mime-type="image/png" src="../../media/graphics10updated.png" id="id1166699784777__onlineimage" width="50" print-width=".33in"/>
+        </media>
+      <m:math><m:mrow><m:mn>8</m:mn><m:mo>+</m:mo><m:mn>4</m:mn><m:mo>=</m:mo><m:mn>12</m:mn></m:mrow></m:math>
+Write 2, carry 1 ten to the top of the next column to the left.</para>
+      <section id="id4179913"><title>Sample Set B</title><para id="id1166699814578">Perform the following additions. Use the process of carrying when needed. </para>
+        <example id="eip-id1165869553000"><para id="id1166699786401">Add 1875 and 358.</para>
+ <para id="eip-id1166098289591"><media id="id1166700276520_media" alt="1875 + 358 = 2233. Above the tens, hundreds, and thousands columns are carried ones.">
+            <image mime-type="image/png" src="../../media/graphics11updated.png" id="id1166700276520__onlineimage" width="85" print-width=".7in"/>
+          </media>
+       </para> 
+<para id="eip-id6842607">
+<m:math><m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>5</m:mn>
+<m:mo>+</m:mo>
+<m:mn>8</m:mn>
+<m:mo>=</m:mo>
+<m:mn>13</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Write 3, carry 1 ten.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+<m:mn>7</m:mn>
+<m:mo>+</m:mo>
+<m:mn>5</m:mn>
+<m:mo>=</m:mo>
+<m:mn>13</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Write 3, carry 1 hundred.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+<m:mn>8</m:mn>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:mo>=</m:mo>
+<m:mn>12</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Write 2, carry 1 thousand.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+<m:mn>1</m:mn>
+<m:mo>=</m:mo>
+<m:mn>2</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+        <para id="id1166702045971">The sum is 2233.</para></example>
+        <example id="eip-id1165873939266"><para id="id1166706148646">Add 89,208 and 4,946.</para>
+     <para id="eip-id1171988571074"><media id="id1166704794237_media" alt="89,208 + 4,946 = 94,154. Above the tens, thousands, and ten-thousands columns are carried ones.">
+            <image mime-type="image/png" src="../../media/graphics12updated.png" id="id1166704794237__onlineimage" width="90" print-width=".7in"/>
+          </media></para>
+<para id="eip-id1832506"><m:math><m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>8</m:mn>
+<m:mo>+</m:mo>
+<m:mn>6</m:mn>
+<m:mo>=</m:mo>
+<m:mn>14</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Write 4, carry 1 ten.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+<m:mn>0</m:mn>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:mo>=</m:mo>
+<m:mn>5</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Write the 5 (nothing to carry).</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>2</m:mn>
+<m:mo>+</m:mo>
+<m:mn>9</m:mn>
+<m:mo>=</m:mo>
+<m:mn>11</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Write 1, carry one thousand.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+<m:mn>9</m:mn>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:mo>=</m:mo>
+<m:mn>14</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Write 4, carry one ten thousand.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+<m:mn>8</m:mn>
+<m:mo>=</m:mo>
+<m:mn>9</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+        
+        <para id="id1166699951194">The sum is 94,154.</para></example>
+        <example id="eip-id1165873936018"><para id="id1166703228887">Add 38 and 95.</para>
+        
+          <para id="eip-id1171881878708"><media id="id1166699182376_media" alt="38 + 95 = 133. Above the tens and the hundreds columns are carried ones.">
+            <image mime-type="image/png" src="../../media/graphics13updated.png" id="id1166699182376__onlineimage" width="80" print-width=".65in"/>
+          </media></para>
+<para id="eip-id1165864068032">
+<m:math><m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>8</m:mn>
+<m:mo>+</m:mo>
+<m:mn>5</m:mn>
+<m:mo>=</m:mo>
+<m:mn>13</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Write 3, carry 1 ten.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:mo>+</m:mo>
+<m:mn>9</m:mn>
+<m:mo>=</m:mo>
+<m:mn>13</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Write 3, carry 1 hundred.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+<m:mn>0</m:mn>
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+        
+        <para id="id1166700084847">As you proceed with the addition, it is a good idea to keep in mind what is actually happening.</para>
+        
+        
+        <para id="eip-id1165094523213"><media id="eip-id1172311688400" alt="38 + 95, which is separated into 3 tens + 8 ones over 9 tens + 5 ones. The sum is 12 tens + 13 ones, which is equal to 12 tens + 1 ten + 3 ones, which simplifies to 13 tens + 3 ones, which is equal to 1 hundred + 3 tens + 3 ones, which equals 133."><image mime-type="image/png" src="../../media/messyeqn.png" width="600" print-width="4.5in"/></media></para>
+        <para id="id7003762">The sum is 133.</para></example>
+       <example id="eip-id1165887519298"><para id="id1166699944176">Find the sum 2648, 1359, and 861.</para>
+        <para id="eip-id1167918860910">
+          <media id="id1166699858351_media" alt="2648 + 1359 + 861 = 4868. Above the tens, hundreds, and thousands columns are carried ones.">
+            <image mime-type="image/png" src="../../media/graphics15updated.png" id="id1166699858351__onlineimage" width="90" print-width=".5in"/>
+          </media></para>
+<para id="eip-id1165448348571">
+<m:math><m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>8</m:mn>
+<m:mo>+</m:mo>
+<m:mn>9</m:mn>
+<m:mo>+</m:mo>
+<m:mn>1</m:mn>
+<m:mo>=</m:mo>
+<m:mn>18</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Write 8, carry 1 ten.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:mo>+</m:mo>
+<m:mn>5</m:mn>
+<m:mo>+</m:mo>
+<m:mn>6</m:mn>
+<m:mo>=</m:mo>
+<m:mn>16</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Write 6, carry 1 hundred.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+<m:mn>6</m:mn>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:mo>+</m:mo>
+<m:mn>8</m:mn>
+<m:mo>=</m:mo>
+<m:mn>18</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Write 8, carry 1 thousand.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+<m:mo>+</m:mo>
+<m:mn>1</m:mn>
+<m:mo>=</m:mo>
+<m:mn>4</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+        
+        <para id="id1166699912994">The sum is 4,868.</para></example>
+        <para id="id1166707187736">Numbers other than 1 can be carried as illustrated in <link target-id="eip-id1165879397855"/>.</para>
+        <example id="eip-id1165879397855"><para id="id1166700022394">Find the sum of the following numbers.</para>
+        <para id="eip-id1164467064782">
+          <media id="id1166699960706_media" alt="878016 + 9905 + 38951 + 56817 = 983689. Above the tens column is a carried one. Above the thousands column is a carried 2. Above the ten-thousands column is a carried 3. Above the hundred-thousands column is a carried 1.">
+            <image mime-type="image/png" src="../../media/graphics16updated.png" id="id1166699960706__onlineimage" width="125" print-width=".75in"/>
+          </media></para>
+        <para id="eip-id1166689100820"><m:math><m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>6</m:mn>
+<m:mo>+</m:mo>
+<m:mn>5</m:mn>
+<m:mo>+</m:mo>
+<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+<m:mn>7</m:mn>
+<m:mo>=</m:mo>
+<m:mn>19</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Write 9, carry the 1.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+<m:mn>0</m:mn>
+<m:mo>+</m:mo>
+<m:mn>5</m:mn>
+<m:mo>+</m:mo>
+<m:mn>1</m:mn>
+<m:mo>=</m:mo>
+<m:mn>8</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Write 8.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>0</m:mn>
+<m:mo>+</m:mo>
+<m:mn>9</m:mn>
+<m:mo>+</m:mo>
+<m:mn>9</m:mn>
+<m:mo>+</m:mo>
+<m:mn>8</m:mn>
+<m:mo>=</m:mo>
+<m:mn>26</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Write 6, carry the 2.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>2</m:mn>
+<m:mo>+</m:mo>
+<m:mn>8</m:mn>
+<m:mo>+</m:mo>
+<m:mn>9</m:mn>
+<m:mo>+</m:mo>
+<m:mn>8</m:mn>
+<m:mo>+</m:mo>
+<m:mn>6</m:mn>
+<m:mo>=</m:mo>
+<m:mn>33</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Write 3, carry the 3.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>3</m:mn>
+<m:mo>+</m:mo>
+<m:mn>7</m:mn>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:mo>+</m:mo>
+<m:mn>5</m:mn>
+<m:mo>=</m:mo>
+<m:mn>18</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Write 8, carry the 1.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+<m:mn>8</m:mn>
+<m:mo>=</m:mo>
+<m:mn>9</m:mn>
+</m:mrow>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Write 9.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        <para id="id1166701680798">The sum is 983,689.</para></example>
+        <example id="eip-id1165874140626"><para id="id1166703414152">The number of students enrolled at Riemann College in the years 1984, 1985, 1986, and 1987 was 10,406, 9,289, 10,108, and 11,412, respectively. What was the total number of students en­rolled at Riemann College in the years 1985, 1986, and 1987?</para>
+        <para id="id6098956">We can determine the total number of students enrolled by adding 9,289, 10,108, and 11,412, the number of students enrolled in the years 1985, 1986, and 1987.</para>
+        <para id="eip-id1165833849555"><media id="id1166699867466_media" alt="9,289 + 10,108 + 11,412 = 30,809. Above the tens, hundreds, and ten-thousands columns are carried ones.">
+            <image mime-type="image/png" src="../../media/graphics17.png" id="id1166699867466__onlineimage" width="100" print-width=".70in"/>
+          </media>
+        </para>
+        <para id="id1166705347179">The total number of students enrolled at Riemann College in the years 1985, 1986, and 1987 was 30,809.</para></example>
+      </section>
+      <section id="id1166700091599">
+        <title>Practice Set B</title>
+        <para id="id1166705705211">Perform each addition. For the next three problems, show the expanded form.</para>
+        <exercise id="id1166705026362"><problem id="oo-id1166699645239">
+            <para id="id1166699849793">Add 58 and 29.</para></problem><solution id="eip-id1164469594754"><para id="eip-id1164466379293">87</para>
+<para id="eip-id2412922"><media id="eip-id1166803391625" alt="Vertical addition.  5 tens + 8 ones, over 2 tens + 9 ones = 7 tens + 17 ones."><image mime-type="image/png" src="../../media/15pic4.png" width="175px" print-width="1.5in"/></media>
+
+<!-- <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:mtext>5 tens + 8 ones</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:mo>+</m:mo>
+<m:munder accentunder="true">
+<m:mrow>
+<m:mtext>2 tens + 9 ones</m:mtext>
+</m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:mtext>7 tens + 17 ones</m:mtext>
+</m:mtd></m:mtr>
+</m:mtable>
+</m:math> --></para>
+<para id="eip-id1165351279109"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mo>=</m:mo><m:mn>7</m:mn><m:mspace width="2px"/><m:mtext>tens</m:mtext><m:mo>+</m:mo><m:mn>1</m:mn><m:mspace width="2px"/><m:mtext>ten</m:mtext><m:mo>+</m:mo><m:mn>7</m:mn><m:mspace width="2px"/><m:mtext>ones</m:mtext></m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mo>=</m:mo><m:mn>8</m:mn><m:mspace width="2px"/><m:mtext>tens</m:mtext><m:mo>+</m:mo><m:mn>7</m:mn><m:mspace width="2px"/><m:mtext>ones</m:mtext></m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow><m:mo>=</m:mo><m:mn>87</m:mn></m:mrow>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+          </solution>
+        </exercise>
+        <exercise id="id1166708113094"><problem id="oo-id7591694">
+            <para id="id1166704998140">Add 476 and 85.</para></problem><solution id="eip-id1169971648989"><para id="eip-id1169960420012">561</para>
+<para id="eip-id3776576"><media id="eip-id1167268268046" alt="4 hundreds + 7 tens + 6 ones over 8 tens + 5 ones = 4 hundreds + 15 tens + 11 ones."><image src="../../media/practicebproblem2x.png" mime-type="image/png" print-width="2in"/></media></para>
+<para id="eip-id1166740989694"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mrow>
+<m:mtext>= 4 hundreds + 15 tens + 1 ten + 1 one</m:mtext></m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mrow>
+<m:mtext>= 4 hundreds + 16 tens + 1 one</m:mtext></m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mrow>
+<m:mtext>= 4 hundreds + 1 hundred + 6 tens + 1 one</m:mtext></m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mrow>
+<m:mtext>= 5 hundreds + 6 tens + 1 one</m:mtext></m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mrow><m:mo>=</m:mo><m:mn>561</m:mn></m:mrow>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+          </solution>
+        </exercise>
+        
+        <exercise id="id1166703788235"><problem id="oo-id1166699779035">
+            <para id="id1166699892402">Add 27 and 88.</para></problem><solution id="eip-id7144508"><para id="eip-id1166692077008">115</para>
+<para id="eip-id1169134727052"><media id="eip-id1166094266846" alt="Vertical addition. 2 tens + 7 ones, over 8 tens + 8 ones = 10 tens + 15 ones."><image mime-type="image/png" src="../../media/15pic5.png" width="160px" print-width="1.5in"/></media>
+
+<!-- <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:mtext>2 tens + 7 ones</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:mo>+</m:mo>
+<m:munder accentunder="true">
+<m:mrow>
+<m:mtext>8 tens + 8 ones</m:mtext>
+</m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:mtext>10 tens + 15 ones</m:mtext>
+</m:mtd></m:mtr>
+</m:mtable>
+</m:math> --></para>
+<para id="eip-id1167272655309"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mtext>= 10 tens + 1 ten + 5 ones</m:mtext></m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mtext>= 11 tens + 5 ones</m:mtext></m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow>
+<m:mtext>= 1 hundred + 1 ten + 5 ones</m:mtext></m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow><m:mo>=</m:mo><m:mn>115</m:mn></m:mrow>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+          </solution>
+        </exercise>
+        <exercise id="id8694765"><problem id="oo-id1166699687402">
+            <para id="id1166699650220">Add 67,898 and 85,627.</para></problem><solution id="eip-id1164467000484"><para id="eip-id1164476279192">153,525</para></solution>
+        </exercise>
+        <para id="id1166705979209">For the next three problems, find the sums.</para>
+        <exercise id="id6988913"><problem id="oo-id1166707457767">
+            <para id="id1166704697305"><m:math>
+<m:mtable><m:mtr>
+<m:mtd columnalign="right">
+<m:mn>57</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>26</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mn>  84</m:mn>
+<m:mo>̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable></m:math> </para>
+          </problem>
+        <solution id="eip-id1167335488475">
+<para id="eip-id1167335488477">
+167</para>
+</solution></exercise>
+        
+        <exercise id="id1166708454588"><problem id="oo-id1166699646399">
+            <para id="id1166700688635"><m:math><m:mtable>
+<m:mtr><m:mtd columnalign="right">
+<m:mn>847</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr><m:mtd columnalign="right">
+<m:mn>825</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mn>  796</m:mn>
+<m:mo>̲</m:mo></m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable></m:math></para></problem><solution id="eip-id1172301373361"><para id="eip-id1172301635109">2,468</para></solution>
+        </exercise>
+        <exercise id="id1166704430022"><problem id="oo-id1166703145412">
+            <para id="id1166705860795"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>16,945</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>8,472</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>387,721</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>21,059</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mtext>           629</m:mtext>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para></problem><solution id="eip-id1165746750081"><para id="eip-id1165718145970">434,826</para>
+          </solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id1166700601581">
+      <title>Calculators</title>
+      <para id="id1166700078467">Calculators provide a very simple and quick way to find sums of whole numbers. For the two problems in Sample Set C, assume the use of a calculator that does not require the use of an ENTER key (such as many Hewlett-Packard calculators).</para>
+      <section id="id1166706081440"><title>Sample Set C</title><para id="id1166705042585">Use a calculator to find each sum.</para>
+        <example id="eip-id1166685226319"><table id="id1166699970470" summary="Instructions for adding the numbers on a calculator.">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c2">
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mtext>34</m:mtext>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mtext>21</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{"34"+"21"} {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry>Display Reads</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>34</entry>
+                <entry>34</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>+</entry>
+                <entry>34</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>21</entry>
+                <entry>21</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+                <entry>55</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="eip-225">The sum is 55.</para></example><example id="eip-id1166694872884"><table id="id1166707438354" summary="Instructions for adding the numbers on a calculator."><tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>            
+<tbody>
+              <row>
+                <entry namest="c1" nameend="c2">
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>106</m:mtext>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mtext>85</m:mtext>
+                                </m:mrow>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>322</m:mtext>
+                              </m:mrow>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mtext>406</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{"106"+"85"+"322"+"406"} {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry>Display Reads</entry>
+<entry/>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>106</entry>
+                <entry>106</entry>
+<entry>The calculator keeps a running subtotal</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>+</entry>
+                <entry>106</entry>
+<entry/>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>85</entry>
+                <entry>85 </entry>
+<entry/>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+                <entry>191</entry><entry> ←
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>106</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>85</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"106"+"85"} {}</m:annotation></m:semantics></m:math></entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>322</entry>
+                <entry>322</entry>
+<entry/>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>+</entry>
+                <entry>513</entry><entry> ←
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>191</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>322</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"191"+"322"} {}</m:annotation></m:semantics></m:math></entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>406</entry>
+                <entry>406</entry>
+<entry/>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+                <entry>919</entry><entry>←
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>513</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>406</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"513"+"406"} {}</m:annotation></m:semantics></m:math></entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1166709590443">The sum is 919.</para></example>
+      </section>
+      <section id="id1166705130902">
+        <title>Practice Set C</title>
+        <para id="id1166708337425">Use a calculator to find the following sums.</para>
+        <exercise id="id1166701516701"><problem id="oo-id1166699728501">
+            <para id="id1166700005261"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>62</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>81</m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"62"+"81"+"12"} {}</m:annotation></m:semantics></m:math></para></problem><solution id="eip-id1166686151006"><para id="eip-id1780000">155</para></solution>
+        </exercise>
+        <exercise id="id1166700283016"><problem id="oo-id4022505">
+            <para id="id1166699756473"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>9,</m:mn><m:mrow><m:mtext>261</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>8,</m:mn></m:mrow><m:mrow><m:mrow><m:mtext>543</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>884</m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>1,</m:mn></m:mrow><m:mtext>062</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9,"261"+8,"543"+"884"+1,"062"} {}</m:annotation></m:semantics></m:math></para></problem><solution id="eip-id1166556655615"><para id="eip-id1166577312227">19,750</para>
+          </solution>
+        </exercise>
+        <exercise id="id1166703464425"><problem id="oo-id1166704486147">
+            <para id="id1166705706887"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>221</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>9,</m:mn></m:mrow><m:mrow><m:mtext>016</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>11</m:mtext></m:mrow><m:mi>,</m:mi><m:mtext>445</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10","221"+0,"016"+"11","445"} {}</m:annotation></m:semantics></m:math></para></problem><solution id="eip-id1165741243410"><para id="eip-id1165747975739">30,682</para>
+          </solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id1166700006595"><title>Exercises</title><para id="id1166704884970">For the following problems, perform the additions. If you can, check each sum with a calculator.</para>
+      
+<exercise id="eip-id1165294525591"><problem id="eip-id1165292346052"><para id="eip-id1169304550314">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>14</m:mtext>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>5</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"14"+5} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+
+</problem>
+<solution id="eip-id1169288371533"><para id="eip-id1169314953614">19</para></solution></exercise>
+
+<exercise id="eip-id1165289728402"><problem id="eip-id1165287235130">
+      <para id="eip-id1165431951924">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>12</m:mtext>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>7</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"12"+7} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-id1171845140160"><problem id="eip-id1171846879015">
+      <para id="eip-id1166936921528">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>46</m:mtext>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>2</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"46"+2} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+<solution id="eip-id1166939814228"><para id="eip-id7757194">48</para></solution></exercise>
+
+<exercise id="eip-id1171845138654"><problem id="eip-id1171846879337">
+      <para id="eip-id1165435193407">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>83</m:mtext>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mtext>16</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"83"+"16"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-id1171845144309"><problem id="eip-id1171847964010">
+      <para id="eip-id1166556099799">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>77</m:mtext>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mtext>21</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"77"+"21"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+<solution id="eip-id1166556677363"><para id="eip-id1166560004079">98</para></solution></exercise>
+
+<exercise id="eip-123"><problem id="eip-882">
+  <para id="eip-id1979833"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>321</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>  42</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+ </para>
+</problem>
+</exercise><exercise id="eip-833"><problem id="eip-594">
+  <para id="eip-id1165254151723"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>916</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>  62</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math> </para>
+</problem>
+<solution id="eip-id1169320071619"><para id="eip-id1169289650211">978</para></solution></exercise><exercise id="eip-918"><problem id="eip-880">
+  <para id="eip-id1164513936490">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>104</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>561</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+ </para>
+</problem>
+
+</exercise><exercise id="eip-539"><problem id="eip-494">
+  <para id="eip-id1169819594785"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>265</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>103</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math></para>
+</problem>
+<solution id="eip-id1169819521550"><para id="eip-id1169819521551">368</para></solution></exercise><exercise id="eip-id1171849733128"><problem id="eip-id1171861647132">
+      <para id="eip-id1169288671577">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>552</m:mtext>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mtext>237</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"552"+"237"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-id1171851809978"><problem id="eip-id1171847880306">
+      <para id="eip-id1169265281175">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>8,</m:mn>
+                    <m:mrow>
+                      <m:mtext>521</m:mtext>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>4,</m:mn>
+                    </m:mrow>
+                    <m:mtext>256</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{8,"521"+4,"256"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+<solution id="eip-id1169267460457"><para id="eip-id1169271481279">12,777</para></solution></exercise>
+
+<exercise id="eip-296"><problem id="eip-359">
+  <para id="eip-id6588772"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>16,408</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>  3,101</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math></para>
+</problem>
+</exercise><exercise id="eip-436"><problem id="eip-193">
+  <para id="eip-id1165101834022">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>16,515</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>42,223</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+</problem>
+<solution id="eip-id1165100009537"><para id="eip-id1165097355733">58,738</para></solution>
+</exercise><exercise id="eip-id1171845081739"><problem id="eip-id7239452">
+      <para id="eip-id1168665793831">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>616</m:mtext>
+                    <m:mi>,</m:mi>
+                    <m:mrow>
+                      <m:mtext>702</m:mtext>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mtext>101</m:mtext>
+                    </m:mrow>
+                    <m:mi>,</m:mi>
+                    <m:mtext>161</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"616","702"+"101","161"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-id1171849750411"><problem id="eip-id1171850235238">
+      <para id="eip-id1170508205828">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>43</m:mtext>
+                    <m:mi>,</m:mi>
+                    <m:mtext>156</m:mtext>
+                    <m:mi>,</m:mi>
+                    <m:mrow>
+                      <m:mtext>219</m:mtext>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>2,</m:mn>
+                    </m:mrow>
+                    <m:mtext>013</m:mtext>
+                    <m:mi>,</m:mi>
+                    <m:mtext>520</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"43","156","219"+2,"013","520"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+<solution id="eip-id1170515544117"><para id="eip-id1170506197551">45,169,739</para></solution></exercise>
+
+<exercise id="eip-id1171861609606"><problem id="eip-id1171860185782">
+<para id="eip-id1169268089915">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>17</m:mtext>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>6</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"17"+6} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-id1171846667460"><problem id="eip-id1171845486240">
+      <para id="eip-id1165430852748">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>25</m:mtext>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>8</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"25"+8} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+<solution id="eip-id1165435530974"><para id="eip-id1165430756353">33</para></solution></exercise>
+
+
+<exercise id="eip-id1171845367593"><problem id="eip-id1171847991901"><para id="eip-id1165292743445"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>84</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>  7</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1171845352195"><problem id="eip-id1171845490268"><para id="eip-id1165125276058"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>75</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>  6</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para></problem>
+<solution id="eip-id1165104294090"><para id="eip-id1165111539547">81</para></solution></exercise>
+
+<exercise id="eip-id1171845451425"><problem id="eip-id1171854654830">
+      <para id="eip-id1169316040484">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>36</m:mtext>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mtext>48</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"36"+"48"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-id1171845440528"><problem id="eip-id1171845497524">
+      <para id="eip-id3290363">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>74</m:mtext>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mtext>17</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"74"+"17"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+<solution id="eip-id1166933534155"><para id="eip-id1166938468980">91</para></solution></exercise>
+
+<exercise id="eip-id1171845081458"><problem id="eip-id1171844824924">
+      <para id="eip-id1170517142814">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>486</m:mtext>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mtext>58</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"486"+"58"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-id1171845455141"><problem id="eip-id1171848504981">
+      <para id="eip-id1172290345785">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>743</m:mtext>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mtext>66</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"743"+"66"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+<solution id="eip-id1172300750527"><para id="eip-id1172289251146">809</para></solution></exercise>
+
+<exercise id="eip-id1171845369461"><problem id="eip-id1171848639899">
+      <para id="eip-id1165445554098">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>381</m:mtext>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mtext>88</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"381"+"88"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-id1171848222931"><problem id="eip-id7078499">
+<para id="eip-id1170647594877">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>687</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>175</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+</problem>
+<solution id="eip-id1170647436248"><para id="eip-id1170645579483">862</para></solution></exercise>
+
+<exercise id="eip-id1171859317028"><problem id="eip-id1171845500785">
+<para id="eip-id1170529023559">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>931</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>853</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+</problem></exercise>
+
+<exercise id="eip-id1171846914702"><problem id="eip-id1171845081595">
+      <para id="eip-id1164918782951">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>1,</m:mn>
+                    <m:mrow>
+                      <m:mtext>428</m:mtext>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mtext>893</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{1,"428"+"893"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+<solution id="eip-id1164915236623"><para id="eip-id1164935647028">2,321</para></solution></exercise>
+
+<exercise id="eip-id1171845381688"><problem id="eip-id1171845373551">
+      <para id="eip-id1170646945618">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>12</m:mtext>
+                    <m:mi>,</m:mi>
+                    <m:mrow>
+                      <m:mtext>898</m:mtext>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mtext>11</m:mtext>
+                    </m:mrow>
+                    <m:mi>,</m:mi>
+                    <m:mtext>925</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"12","898"+"11","925"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-id1171845368697"><problem id="eip-id1171845445058">
+<para id="eip-id1172300942642">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>631,464</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>509,740</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+</problem>
+<solution id="eip-id1172289387825"><para id="eip-id1172297846926">1,141,204</para></solution></exercise>
+
+<exercise id="eip-id1171845389274"><problem id="eip-id1171852289334">
+<para id="eip-id1166561667778"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>805,996</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>  98,516</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+</problem></exercise>
+
+<exercise id="eip-id1171845506357"><problem id="eip-id1171845614365">
+<para id="eip-id1169299719357">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>38,428,106</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>522,936,005</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para></problem>
+<solution id="eip-id1169301411118"><para id="eip-id2214562">561,364,111</para></solution></exercise>
+
+<exercise id="eip-id1171848230342"><problem id="eip-id1171845093349">
+      <para id="eip-id1169266914516">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>5,</m:mn>
+                    <m:mtext>288</m:mtext>
+                    <m:mi>,</m:mi>
+                    <m:mtext>423</m:mtext>
+                    <m:mi>,</m:mi>
+                    <m:mrow>
+                      <m:mtext>100</m:mtext>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mtext>16</m:mtext>
+                    </m:mrow>
+                    <m:mi>,</m:mi>
+                    <m:mtext>934</m:mtext>
+                    <m:mi>,</m:mi>
+                    <m:mtext>785</m:mtext>
+                    <m:mi>,</m:mi>
+                    <m:mtext>995</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{5,"288","423","100"+"16","934","785","995"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-id1165737710515"><problem id="eip-id1165716753589">
+      <para id="eip-id1165274988116">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>98</m:mtext>
+                    <m:mi>,</m:mi>
+                    <m:mtext>876</m:mtext>
+                    <m:mi>,</m:mi>
+                    <m:mtext>678</m:mtext>
+                    <m:mi>,</m:mi>
+                    <m:mtext>521</m:mtext>
+                    <m:mi>,</m:mi>
+                    <m:mrow>
+                      <m:mtext>402</m:mtext>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mtext>843</m:mtext>
+                    </m:mrow>
+                    <m:mi>,</m:mi>
+                    <m:mtext>425</m:mtext>
+                    <m:mi>,</m:mi>
+                    <m:mtext>685</m:mtext>
+                    <m:mi>,</m:mi>
+                    <m:mtext>685</m:mtext>
+                    <m:mi>,</m:mi>
+                    <m:mtext>658</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"98","876","678","521","402"+"843","425","685","685","658"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+<solution id="eip-id1165271284875"><para id="eip-id1165271519630">942,302,364,207,060</para></solution></exercise>
+
+<exercise id="eip-id1165712783321"><problem id="eip-id1165728685966">
+      <para id="eip-id1169266690604">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>41</m:mtext>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>61</m:mtext>
+                      </m:mrow>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mtext>85</m:mtext>
+                    </m:mrow>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mtext>62</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"41"+"61"+"85"+"62"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-id1165721651883"><problem id="eip-id1165745347791">
+      <para id="eip-id1169815642092">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mtext>21</m:mtext>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mtext>85</m:mtext>
+                        </m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>104</m:mtext>
+                      </m:mrow>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>9</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mtext>15</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"21"+"85"+"104"+9+"15"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+<solution id="eip-id1165271955536"><para id="eip-id1165271616111">234</para></solution></exercise>
+
+<exercise id="eip-id1165750151265"><problem id="eip-id1165712154926"><para id="eip-id4010401"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>116</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>27</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>110</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>110</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>    8</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para></problem></exercise>
+
+<exercise id="eip-id1165270689985"><problem id="eip-id1165271306334"><para id="eip-id3669233">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>75,206</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>4,152</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>16,007</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para></problem>
+<solution id="eip-id3703168"><para id="eip-id3703169">95,365</para></solution></exercise>
+
+<exercise id="eip-id1165268530837"><problem id="eip-id1165268189981"><para id="eip-id1170657384779"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>8,226</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>143</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>92,015</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>8</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>487,553</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mn>      5,218</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para></problem></exercise>
+
+<exercise id="eip-id1165274350736"><problem id="eip-id1165272791669"><para id="eip-id8237291"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>50,006</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>1,005</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>100,300</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>20,008</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>1,000,009</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mn>      800,800</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para></problem>
+<solution id="eip-id1164526036710"><para id="eip-id1164519918735">1,972,128</para></solution></exercise>
+      <exercise id="eip-259"><problem id="eip-804">
+<para id="eip-id1172284507071"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>616</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>42,018</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>1,687</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>225</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>8,623,418</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>12,506,508</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>19</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>2,121</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mn>      195,643</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+</problem>
+</exercise>
+      <para id="id4321639">For the following problems, perform the additions and round to the nearest hundred.</para>
+      <exercise id="eip-243"><problem id="eip-937">
+<para id="eip-id1169310750501"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>1,468</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mn>  2,183</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math></para>
+</problem>
+<solution id="eip-id1169293243634"><para id="eip-id6803360">3,700</para></solution>
+</exercise>
+      <exercise id="eip-247"><problem id="eip-831">
+<para id="eip-id1170673789871"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>928,725</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mn>     15,685</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+</problem>
+
+</exercise>
+      <exercise id="eip-288"><problem id="eip-863">
+<para id="eip-id1164914877741"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>82,006</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mn>  3,019,528</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+</problem>
+<solution id="eip-id1164915531906"><para id="eip-id1164915531907">3,101,500</para></solution>
+</exercise>
+      <exercise id="eip-29"><problem id="eip-582">
+<para id="eip-id3883335"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>18,621</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mn>    5,059</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+</problem>
+</exercise>
+      <exercise id="eip-292"><problem id="eip-641">
+<para id="eip-id1168669001081"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>92</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mn>  48</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+</problem>
+<solution id="eip-id1168663439216"><para id="eip-id1168662617124">100</para></solution>
+</exercise>
+      <exercise id="eip-38"><problem id="eip-527">
+  <para id="eip-id1170529582250"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>16</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mn>  37</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+</problem>
+</exercise>
+      <exercise id="eip-508"><problem id="eip-535">
+  <para id="eip-id1164522879378"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>21</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mn>  16</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+</problem>
+<solution id="eip-id1164519165032"><para id="eip-id1164520739413">0</para></solution>
+</exercise>
+      <exercise id="eip-771"><problem id="eip-766">
+  <para id="eip-id1169290969808"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>11,172</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>22,749</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mn>  12,248</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+</problem>
+</exercise>
+      <exercise id="eip-496"><problem id="eip-891">
+  <para id="eip-id1168662878716"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>240</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>280</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>210</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mn>  310</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+</problem>
+<solution id="eip-id1168665498589"><para id="eip-id8972627">1,000</para></solution>
+</exercise>
+      <exercise id="eip-711"><problem id="eip-33">
+  <para id="eip-id1169269170916"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>9,573</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>101,279</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mn>  122,581</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+</para>
+</problem>
+</exercise>
+      <para id="id1166704269774">For the next five problems, replace the letter <m:math><m:mrow><m:mi>m</m:mi></m:mrow></m:math> with the whole number that will make the addition true.</para>
+      <exercise id="eip-987"><problem id="eip-623">
+<para id="eip-id1169287682892"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>62</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+    </m:mo>
+<m:mi>m</m:mi>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>67</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+</problem>
+<solution id="eip-id1169304633016"><para id="eip-id1169303951137">5</para></solution>
+</exercise>
+      <exercise id="eip-372"><problem id="eip-60">
+<para id="eip-id1170656030830"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>106</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+    </m:mo>
+<m:mi>m</m:mi>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>113</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+</problem>
+</exercise>
+      <exercise id="eip-218"><problem id="eip-715">
+<para id="eip-id1169274344090"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>432</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+    </m:mo>
+<m:mi>m</m:mi>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>451</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+</problem>
+<solution id="eip-id1169273781803"><para id="eip-id2047751">19</para></solution>
+</exercise>
+      <exercise id="eip-559"><problem id="eip-564">
+<para id="eip-id1164919829480"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>803</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+    </m:mo>
+<m:mi>m</m:mi>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>830</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+</problem>
+
+</exercise>
+      <exercise id="eip-678"><problem id="eip-866">
+<para id="eip-id1165290939258"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>1,893</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+      </m:mo>
+<m:mi>m</m:mi>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>1,981</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+</problem>
+<solution id="eip-id1165292647346"><para id="eip-id1165291834189">88</para></solution></exercise>
+      <exercise id="id1166701926467">
+        <problem id="oo-id1166700278782">
+          <para id="id1166699660852">The number of nursing and related care facilities in the United States in 1971 was 22,004. In 1978, the number was 18,722. What was the total num­ber of facilities for both 1971 and 1978?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166699664970"><problem id="oo-id1166701523838">
+          <para id="id1166707856105">The number of persons on food stamps in 1975, 1979, and 1980 was 19,179,000, 19,309,000, and 22,023,000, respectively. What was the total number of people on food stamps for the years 1975, 1979, and 1980?</para></problem><solution id="eip-id1171185268877"><para id="eip-id1171183156062"> 60,511,000</para>
+        </solution>
+      </exercise>
+      <exercise id="id1166709327787">
+        <problem id="oo-id1166707468810">
+          <para id="id1166705136041">The enrollment in public and nonpublic schools in the years 1965, 1970, 1975, and 1984 was 54,394,000, 59,899,000, 61,063,000, and 55,122,000, respectively. What was the total en­rollment for those years? </para>
+        </problem>
+      </exercise>
+      <exercise id="id1166707851255"><problem id="oo-id1166705178995">
+          <para id="id1166698381988">The area of New England is 3,618,770 square miles. The area of the Mountain states is 863,563 square miles. The area of the South Atlantic is 278,926 square miles. The area of the Pacific states is 921,392 square miles. What is the total area of these regions?</para></problem><solution id="eip-id1169316070423"><para id="eip-id1169316621343">5,682,651 square miles</para>
+        </solution>
+      </exercise>
+      <exercise id="id8878271">
+        <problem id="oo-id1166708210334">
+          <para id="id1166699808198">In 1960, the IRS received 1,188,000 corporate income tax returns. In 1965, 1,490,000 returns were received. In 1970, 1,747,000 returns were received. In 1972 —1977, 1,890,000; 1,981,000; 2,043,000; 2,100,000; 2,159,000; and 2,329,000 re­turns were received, respectively. What was the total number of corporate tax returns received by the IRS during the years 1960, 1965, 1970, 1972 —1977?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166702952006"><problem id="oo-id1166700139130">
+          <para id="id1166699713421">Find the total number of scientists employed in 1974. </para>
+        <media id="id1166701829832_media" alt="A graph entitled employment status of mathematical scientists - 1974. On the graph are histograms with scientific field titles, and a labeled number of the scientists holding the titles. There are 266,000 life scientists, 248,000 physical scientists, 170,000 computer scientists, 217,000 social scientists, 109,000 psychologists, 101,000, mathematicians, and 79,000 environmental scientists.">
+          <image mime-type="image/png" src="../../media/graphics18.png" id="id1166701829832__onlineimage" width="599" print-width="4.5in"/>
+        </media>
+      
+        </problem>
+<solution id="eip-id1170179534200"><para id="eip-id1170179534204">1,190,000</para></solution>
+      </exercise>
+      
+      <exercise id="id1166700648777"><problem id="oo-id1166701406939">
+          <para id="id1166698412251">Find the total number of sales for space vehicle systems for the years 1965-1980.</para>
+
+        <media id="id1166708619878_media" alt="A graph entitled sales for space vehicle systems, 1965-1980. The histograms for each year are plotted along the horizontal axis, and net sales along the vertical axis. In ascending succession, the sales were 2,449,000,000, 1,956,000,000, 1,725,000,000, 1,656,000,000, 1,562,000,000, 1,751,000,000, 2,119,000,000, 2,002,000,000, 1,870,000,000, 2,324,000,000, 2,539,000,000, and 3,254,000,000.">
+          <image mime-type="image/png" src="../../media/graphics19.png" id="id1166708619878__onlineimage" width="600" print-width="4in"/>
+        </media>
+      
+        </problem>
+      </exercise>
+      
+      <exercise id="id1166700020538"><problem id="oo-id1166704390647">
+          <para id="id1166700782551">Find the total baseball attendance for the years 1960-1980.</para>
+
+          <media id="id8586988_media" alt="A graph entitled baseball attendance 1960-1980, with the histograms for each year plotted on the horizontal axis, and the attendance on the vertical axis. In ascending succession, the years had the following attendances, 20,261, 22,806, 29,191, 30,373, 41,402, 44,262, and 43,746.">
+            <image mime-type="image/png" src="../../media/graphics20.png" id="id8586988__onlineimage" width="600" print-width="4in"/>
+          </media>
+        
+        </problem><solution id="eip-id1170179535044"><para id="eip-id1170179535046">271,564,000</para></solution>
+      </exercise>
+      
+      <exercise id="id1166700080613"><problem id="oo-id1166699788072">
+          <para id="id1166698337774">Find the number of prosecutions of federal officials for 1970-1980.</para>
+        <media id="id1166704198984_media" alt="A graph entitled prosecutions of federal officials 1970-1980, with histograms of the years on the horizontal axis, and number of prosecutions on the vertical axis. The years in ascending succession had the following number of prosecutions, 9, 58, 58, 60, 59, 53, 111, 129, 133, 114, 123.">
+          <image mime-type="image/png" src="../../media/graphics21.png" id="id1166704198984__onlineimage" width="599" print-width="4in"/>
+        </media>
+      
+        </problem>
+      </exercise>
+      
+      <para id="id1166699776541">For the following problems, try to add the numbers mentally.</para>
+      
+      <exercise id="eip-518"><problem id="eip-376">
+<para id="eip-id1170658655523"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mtable>
+                  <m:mtr>
+<m:mtd columnalign="right">                    
+<m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>5</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>5</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:munder accentunder="true">
+                            <m:mn>  7</m:mn>
+                            <m:mo>̲</m:mo>
+                          </m:munder>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                </m:mtable>
+                <m:mrow/>
+              </m:mrow>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{5}  {} # 
+ size 12{5}  {} # 
+ size 12{3}  {} # 
+ size 12{ {underline  {7}} }  {} 
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+</para>
+</problem>
+<solution id="eip-id1170664019865"><para id="eip-id1170665653102">20</para></solution></exercise>
+
+<exercise id="eip-id1164479970125"><problem id="eip-id1164477041505">
+<para id="eip-id8933507"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mtable>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>8</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>6</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:munder accentunder="true">
+                            <m:mn>   4</m:mn>
+                            <m:mo>̲</m:mo>
+                          </m:munder>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                </m:mtable>
+                <m:mrow/>
+              </m:mrow>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{8}  {} # 
+ size 12{2}  {} # 
+ size 12{6}  {} # 
+ size 12{ {underline  {4}} }  {} 
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-631"><problem id="eip-445">
+  <para id="eip-138"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mtable>
+                  <m:mtr>
+
+<m:mtd columnalign="right">                  
+  <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+
+</m:mtd>                 
+ </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>8</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>5</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:munder accentunder="true">
+                            <m:mn>  2</m:mn>
+                            <m:mo>̲</m:mo>
+                          </m:munder>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                </m:mtable>
+                <m:mrow/>
+              </m:mrow>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{9}  {} # 
+ size 12{1}  {} # 
+ size 12{8}  {} # 
+ size 12{5}  {} # 
+ size 12{ {underline  {2}} }  {} 
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+  </para>
+</problem>
+<solution id="eip-id1170647432020"><para id="eip-id1170647693894">25</para></solution></exercise><exercise id="eip-483"><problem id="eip-294">
+  <para id="eip-31"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mtable>
+                  <m:mtr>
+
+<m:mtd columnalign="right">                   
+ <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>5</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>5</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>8</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:munder accentunder="true">
+                            <m:mn>  7</m:mn>
+                            <m:mo>̲</m:mo>
+                          </m:munder>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+
+</m:mtd>
+                  </m:mtr>
+                </m:mtable>
+                <m:mrow/>
+              </m:mrow>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{5}  {} # 
+ size 12{2}  {} # 
+ size 12{5}  {} # 
+ size 12{8}  {} # 
+ size 12{3}  {} # 
+ size 12{ {underline  {7}} }  {} 
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+  </para>
+</problem>
+</exercise><exercise id="eip-id3590219"><problem id="eip-id1164466313579">
+      <para id="eip-id1170515711877"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mtable>
+                  <m:mtr>
+
+<m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>6</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>4</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>6</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>7</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:munder accentunder="true">
+                            <m:mn>  4</m:mn>
+                            <m:mo>̲</m:mo>
+                          </m:munder>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                </m:mtable>
+                <m:mrow/>
+              </m:mrow>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{6}  {} # 
+ size 12{4}  {} # 
+ size 12{3}  {} # 
+ size 12{1}  {} # 
+ size 12{6}  {} # 
+ size 12{7}  {} # 
+ size 12{9}  {} # 
+ size 12{ {underline  {4}} }  {} 
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+<solution id="eip-id1165263122022"><para id="eip-id1651391">40</para></solution></exercise>
+
+<exercise id="eip-id1164467147913"><problem id="eip-id1164477445724">
+      <para id="eip-id1168607639043"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mtable>
+                  <m:mtr>
+
+<m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mtext>20</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:munder accentunder="true">
+                            <m:mtext>  30</m:mtext>
+                            <m:mo>̲</m:mo>
+                          </m:munder>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                </m:mtable>
+                <m:mrow/>
+              </m:mrow>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{"20"}  {} # 
+ size 12{ {underline  {"30"}} }  {} 
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem></exercise>
+
+
+
+
+
+<exercise id="eip-id1164477930850"><problem id="eip-id1164475870741">
+      <para id="eip-id1168662805250"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mtable>
+                  <m:mtr>
+
+<m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mtext>15</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:munder accentunder="true">
+                            <m:mtext>  35</m:mtext>
+                            <m:mo>̲</m:mo>
+                          </m:munder>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                </m:mtable>
+                <m:mrow/>
+              </m:mrow>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{"15"}  {} # 
+ size 12{ {underline  {"35"}} }  {} 
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+<solution id="eip-id1168668675362"><para id="eip-id1168666417289">50</para></solution></exercise>
+
+<exercise id="eip-id1164463488303"><problem id="eip-id1164462339356">
+      <para id="eip-id1169816602826"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mtable>
+                  <m:mtr>
+
+<m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mtext>16</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:munder accentunder="true">
+                            <m:mtext>  14</m:mtext>
+                            <m:mo>̲</m:mo>
+                          </m:munder>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                </m:mtable>
+                <m:mrow/>
+              </m:mrow>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{"16"}  {} # 
+ size 12{ {underline  {"14"}} }  {} 
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-id1164467425396"><problem id="eip-id1164480018177">
+      <para id="eip-id1170647666058"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mtable>
+                  <m:mtr>
+
+<m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mtext>23</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:munder accentunder="true">
+                            <m:mtext>  27</m:mtext>
+                            <m:mo>̲</m:mo>
+                          </m:munder>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                </m:mtable>
+                <m:mrow/>
+              </m:mrow>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{"23"}  {} # 
+ size 12{ {underline  {"27"}} }  {} 
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+<solution id="eip-id1170644588310"><para id="eip-id1170648491191">50</para></solution></exercise>
+
+<exercise id="eip-id1164467131789"><problem id="eip-id1164477493766">
+      <para id="eip-id1165116536452"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mtable>
+                  <m:mtr>
+
+<m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mtext>82</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:munder accentunder="true">
+                            <m:mtext>  18</m:mtext>
+                            <m:mo>̲</m:mo>
+                          </m:munder>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                </m:mtable>
+                <m:mrow/>
+              </m:mrow>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{"82"}  {} # 
+ size 12{ {underline  {"18"}} }  {} 
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-id1164471581078"><problem id="eip-id1164469411002">
+      <para id="eip-id1169815820843"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mtable>
+                  <m:mtr>
+
+<m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mtext>36</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:munder accentunder="true">
+                            <m:mtext>  14</m:mtext>
+                            <m:mo>̲</m:mo>
+                          </m:munder>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                </m:mtable>
+                <m:mrow/>
+              </m:mrow>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{"36"}  {} # 
+ size 12{ {underline  {"14"}} }  {} 
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+<solution id="eip-id1165115403230"><para id="eip-id1165114222119">50</para></solution></exercise>
+
+<section id="id1166699963722">
+      <title>Exercises for Review</title>
+      <exercise id="id1166702771890">
+        <problem id="oo-id1166699667806">
+          <para id="id1166700278144">(<link document="m34795"/>) Each period of numbers has its own name. From right to left, what is the name of the fourth period?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166700035453"><problem id="oo-id1166699973022">
+          <para id="id1166699743539">(<link document="m34795"/>) In the number 610,467, how many thousands are there?</para>
+        </problem>
+<solution id="eip-id1170179196835"><para id="eip-id1170179196836">0</para></solution>
+      </exercise>
+      <exercise id="id1166702903976">
+        <problem id="oo-id1166705374786">
+          <para id="id1166704925845">(<link document="m34778"/>) Write 8,840 as you would read it.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166699698422"><problem id="oo-id5636860">
+          <para id="id8709635">(<link document="m34780"/>) Round 6,842 to the nearest hundred.</para>
+        </problem>
+      <solution id="eip-id1171533311094"><para id="eip-id2827600">6,800</para></solution></exercise>
+      <exercise id="id1166699822640">
+        <problem id="oo-id1166700452212">
+          <para id="id1166707835446">(<link document="m34780"/>) Round 431,046 to the nearest million.</para>
+        </problem>
+      </exercise>
+    </section>
+    </section>
+    
+  </content>
+</document>

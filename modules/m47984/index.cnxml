@@ -1,0 +1,153 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Place Value and Names for Numbers ADA</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m47984</md:content-id>
+  <md:title>Place Value and Names for Numbers ADA</md:title>
+  <md:abstract>This module presents a definition of whole numbers and then talks about how numbers are named in English.  It presents the idea of periods, such as units, thousands, millions, and so on.  It has several exercises for writing out numbers into words.</md:abstract>
+  <md:uuid>7a6935a4-5d3a-47ca-b84a-e3e30a8afb20</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1586954">
+      <title>Numbers and Numerals</title>
+      <para id="id1169548067250">Numbers that are formed using only the following digits are called <term>whole numbers</term>:</para>
+      <para id="id4617709">0 1 2 3 4 5 6 7 8 9</para>
+      <para id="id1169549215673">The whole numbers in order are:</para>
+      <para id="id7166808">0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, …</para>
+      <para id="id1169540178528">The three dots at the end mean “and so on in the same pattern.”</para>
+      <para id="id1169539434772">The whole numbers can be visualized by constructing a number line. To construct a number line, we simply draw a straight line and choose any point on the line and label it 0. This point is called the origin. We then choose some convenient length, and moving to the right, mark off consecutive and equal intervals (parts) along the line starting at 0. We label each new interval endpoint with the next whole number.</para>
+      <figure id="id4241161"><media id="id4241161_media" alt="An image of the number line starting at zero and going through ten by integers">
+          <image mime-type="image/png" src="../../media/graphics1-3d4a.png" id="id4241161__onlineimage" height="44" width="305"/>
+        </media>
+      </figure><para id="id1169544239293">We can visually display a whole number by drawing a closed circle at the point labeled with that whole number. Another phrase for visually displaying a whole number is graphing the whole number. The word <emphasis effect="bold">graph</emphasis> means to “visually display.”</para>
+    </section>
+    <section id="id1169540197775">
+      <title>The Names for Whole Numbers</title>
+      <para id="id1169546577402">The Hindu-Arabic numerals 0 1 2 3 4 5 6 7 8 9 are called digits. We can form any number in the number system by selecting one or more digits and placing them in certain positions. Each position has a particular value. The Hindu mathematician who devised the system in about 500 A.D. stated that “from place to place each is ten times the preceding.” It is for this reason that our number system is called a positional number system with base ten.</para>
+      <para id="id1888139">When numbers are composed of more than three digits, commas are sometimes used to separate the digits into groups of three (such as 1,465,345). These groups of three are called periods, and they greatly simplify reading numbers.</para>
+      <para id="id4688432">In the Hindu-Arabic numeration system, a period has a value assigned to each of its three positions, and the values are the same for each period. The position values are from right to left ones, tens, hundreds. </para><para id="id1169540092299">Each period contains a position for the values of one, ten, and hundred. Notice that, in looking from right to left, the value of each position is ten times the preceding. Each period has a particular name.</para><para id="id1169540114642">
+        <figure id="id1888614"><media id="id1888614_media" alt="An image of the names of the first five periods. Reading right to left units thousands millions billions trillions">
+            <image mime-type="image/png" src="../../media/graphics3-ae40.png" id="id1888614__onlineimage" height="64" width="600"/>
+          </media>
+        </figure></para>
+      <para id="id3972805">As we continue from right to left, there are more periods. The five periods listed above are the most common, and in our study of introductory mathematics, they are sufficient.</para>
+      <para id="id5037650">The following diagram illustrates our positional number system to trillions. (There are, to be sure, other periods.)</para>
+      <figure id="id3851234"><media id="id3851234_media" alt="An image showing from right to left the period named units has ones tens hundreds, the period named thousands has ones tens hundreds, the period named millions has ones tens hundreds, the period named billions has ones tens hundreds, and the period named trillions has ones tens hundreds">
+          <image mime-type="image/png" src="../../media/graphics4-76ec.png" id="id3851234__onlineimage" height="117" width="555"/>
+        </media>
+      </figure><para id="id5752544">In our positional number system, the <emphasis effect="bold">value of a digit</emphasis> is determined by its position in the number.</para>
+      <para id="id1169540092618">Because our number system is a positional number system, reading and writing whole numbers is quite simple.</para>
+      <section id="id6825855">
+        <title>Reading Whole Numbers</title>
+        <para id="id7252896">To convert a number that is formed by digits into a verbal phrase, use the following method:</para>
+        <list id="id1169542221094" list-type="enumerated" number-style="arabic">
+          <item>Beginning at the right and working right to left, separate the number into distinct periods by inserting commas every three digits (e.g. “123456” becomes “123,456”).</item>
+          <item>Beginning at the left, read each period individually, saying the period name.</item>
+        </list>
+        <para id="id5724361">Here are a few examples for writing the numbers as words.</para>
+        <section id="id3552988">
+          <title>Example 1 </title>
+          <para id="id3600512">
+            <emphasis>Write out 42958.</emphasis>
+          </para>
+          <list id="id7574468" list-type="enumerated" number-style="arabic">
+            <item>Beginning at the right, we can separate this number into distinct periods by inserting a comma between the 2 and 9, which is 42,958.</item>
+            <item>Beginning at the left, we read each period individually: <list id="id4587209" list-type="bulleted"><item>Thousands period: __ 4 2 → Forty-two thousand,</item><item>Units period: 9 5 8 → nine hundred fifty-eight.</item></list></item>
+          </list>
+          <para id="id6800856">
+            <emphasis>Solution: Forty-two thousand, nine hundred fifty-eight.</emphasis>
+          </para>
+        </section>
+        <section id="id3606378">
+          <title>Example 2</title>
+          <para id="id1169547958788">
+            <emphasis>Write out 307991343.</emphasis>
+          </para>
+          <list id="id1169540033117" list-type="enumerated" number-style="arabic">
+            <item>Beginning at the right, separate this number into distinct periods by placing commas between the 1 and 3, and the 7 and 9, resulting in “307,991,343”.</item>
+            <item>Beginning at the left, read each period individually.</item>
+          </list>
+          <list id="id1169542156053" list-type="bulleted">
+            <item>Millions period: 3 0 7 → Three hundred seven million,</item>
+            <item>Thousands period: 9 9 1 → nine hundred ninety-one thousand,</item>
+            <item>Units period: 3 4 3 → three hundred forty-three.</item>
+          </list>
+          <para id="id1169548854104">
+            <emphasis>Solution: Three hundred seven million, nine hundred ninety-one thousand, three hundred forty-three</emphasis>
+          </para>
+        </section>
+        <section id="id1169539731138">
+          <title>Example 3</title>
+          <para id="id1887360">
+            <emphasis>Write out 36000000001.</emphasis>
+          </para>
+          <list id="id1879274" list-type="enumerated" number-style="arabic">
+            <item>Beginning at the right, separate this number into distinct periods by placing commas, resulting in 36,000,000,001.</item>
+            <item>Beginning at the left, read each period individually.</item>
+          </list>
+          <list id="id5463571" list-type="bulleted">
+            <item>Trillions period: __ 3 6 → Thirty-six trillion,</item>
+            <item>Billions period: 0 0 0 → zero billion,</item>
+            <item>Millions period: 0 0 0 → zero million,</item>
+            <item>Thousands period: 0 0 0 → zero thousand,</item>
+            <item>Units period: 0 0 1 → one.</item>
+          </list>
+          <para id="id5053016">
+            <emphasis>Solution: Thirty-six trillion, one.</emphasis>
+          </para>
+        </section>
+      </section>
+      <section id="id3696333">
+        <title>Exercises</title>
+        <para id="id1169544224934">Write out each number in words.</para>
+        <exercise id="id1169539740996">
+          <problem id="oo-id1169540258506">
+            <para id="id1169539440465">Write out 12,341.</para>
+          </problem>
+          <solution id="oo-id4206995">
+            <para id="id1169540375239">Twelve thousand, three hundred forty-one.</para>
+          </solution>
+        </exercise>
+        <exercise id="id1169540911001">
+          <problem id="oo-id4151206">
+            <para id="id1169540504782">Write out 202,082,003.</para></problem>
+          <solution id="oo-id3962632">
+            <para id="id1169541100872">Two hundred two million, eighty-two thousand, three.</para>
+          </solution>
+        </exercise>
+        <exercise id="id3544424">
+          <problem id="oo-id1169539981141">
+            <para id="id1169540348180">Write out 1,000,010.</para>
+          </problem>
+          <solution id="oo-id7127338">
+            <para id="id1169541057958">One million, ten.</para>
+          </solution>
+        </exercise>
+        <para id="id1169546880581">For the following exercises, write the numbers for the following text.</para>
+        <exercise id="id1169542305894">
+          <problem id="oo-id4269692">
+            <para id="id1169540758304">Four hundred sixty thousand, five-hundred forty two.</para>
+          </problem>
+          <solution id="oo-id5083404">
+            <para id="id1169541764526">460,542</para>
+          </solution>
+        </exercise>
+        <exercise id="id1169540949798">
+          <problem id="oo-id1169548781350">
+            <para id="id1169540344399">Fourteen million, sixteen thousand, seven.</para>
+          </problem>
+          <solution id="oo-id1169539466311">
+            <para id="id1169541779650">14,016,007</para></solution>
+        </exercise>
+        <exercise id="id1169541152915">
+          <problem id="oo-id1762888">
+            <para id="id1169540467834">Three billion, eight-hundred three thousand.</para>
+          </problem>
+          <solution id="oo-id6540010">
+            <para id="id1169547891700">3,000,803,000</para>
+          </solution>
+        </exercise>
+      </section>
+    </section>
+  </content>
+</document>

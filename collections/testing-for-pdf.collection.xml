@@ -1,56 +1,26 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Book">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Book" authors="Ann Simao">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11705</md:content-id>
-  <md:title>testing for pdf</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>c909811f-4272-4e97-9352-675bcaf87061</md:uuid>
-<md:slug>testing-for-pdf</md:slug>
-</metadata>
-
+    <md:content-id>col11705</md:content-id>
+    <md:title>testing for pdf</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>c909811f-4272-4e97-9352-675bcaf87061</md:uuid>
+    <md:slug>testing-for-pdf</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>Module 1</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m47984"/>
-        
-      
-    
-    
-      <col:module document="m34786">
-        <col:featured-links>
-          
+    <col:subcollection>
+      <md:title>Module 1</md:title>
+      <col:content>
+        <col:module document="m47984"/>
+        <col:module document="m34786">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+          </col:featured-links>
+        </col:module>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
